@@ -10,7 +10,7 @@ image: assets/images/about.png
 
 Tutormu hadir untuk membantu siapa pun memahami konsep-konsep yang kadang terasa rumit lewat penjelasan yang sederhana.
 
-## Apa konten Tutormu?
+## Kontennya apa saja?
 Di sini kamu akan menemukan tutorial singkat, penjelasan praktis, dan panduan yang dirancang supaya mudah dipahami. 
 
 Topiknya beragam, mulai dari:
@@ -19,7 +19,7 @@ Topiknya beragam, mulai dari:
 - Panduan teknologi: dari dasar sampai yang bikin kamu jago
 - Tips belajar efektif dan produktif
 
-## Tutormu untuk siapa?
+## Ini untuk siapa?
 Tutormu cocok untuk siapa saja yang mau belajar. Di Tutormu, kita belajar bareng, pelan-pelan, sambil menikmati prosesnya. 
 
 Yuk, belajar bareng Tutormu, karena *Tutormu...* teman belajarmu!
