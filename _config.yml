@@ -1,13 +1,13 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Tutormu"
+email: 
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-author: Sal
+favicon: 'assets/images/favicon.png'
+author: Fauzan
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,18 +20,18 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: 
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  fauzan:
+    name: Fauzan
+    display_name: Fauzan
+    avatar: 'assets/images/fauzan.png'
+    email: 
+    web: https://tutormu.com
+    twitter: 
+    description: "Penikmat kopi. Penyuka angka dan logika. Sedang membangun Tutormu.com sebagai tempat berbagi ilmu dan pengalaman belajar."
   john:
     name: John
     display_name: John
@@ -43,10 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
-
+  instagram: https://www.instagram.com/tutormucom/
+  youtube: https://www.youtube.com/@tutormu
+  tiktok: https://www.tiktok.com/@tutormu
 # Plugins
 plugins: 
 - jekyll-paginate
