@@ -20,6 +20,6 @@ Topiknya beragam, mulai dari:
 - Tips belajar efektif dan produktif
 
 ## Ini untuk siapa?
-Tutormu cocok untuk siapa saja yang mau belajar. Di Tutormu, kita belajar bareng, pelan-pelan, sambil menikmati prosesnya. 
+Tutormu cocok buat siapa saja yang mau belajar. Di Tutormu, kita belajar bareng, selangkah demi selangkah, sambil menikmati prosesnya. 
 
 Yuk, belajar bareng Tutormu, karena *Tutormu...* teman belajarmu!
