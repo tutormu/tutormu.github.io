@@ -3,7 +3,7 @@ email:
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo-header.png'
 favicon: 'assets/images/favicon.png'
 author: Fauzan
 paginate: 30
