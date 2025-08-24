@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: "Tentang Tutormu"
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+**Apa itu Tutormu?**
+*Tutormu.com* adalah platform digital yang berisi konten edukasi yang seru dan bermanfaat. Mulai dari materi pelajaran sekolah, tutorial kerajinan, teknologi, sampai tips-tips praktis buat kehidupan sehari-hari.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Tutormu hadir untuk membantu siapa pun memahami konsep-konsep yang kadang terasa rumit lewat penjelasan yang sederhana.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+**Apa isi Tutormu?**
+Di sini kamu akan menemukan tutorial singkat, penjelasan praktis, dan panduan yang dirancang supaya mudah dipahami. 
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+Topiknya beragam, mulai dari:
+- Ringkasan pelajaran yang gampang dipahami
+- Tutorial kreatif: menggambar, desain, musik, dll
+- Panduan teknologi: dari dasar sampai yang bikin kamu jago
+- Tips belajar efektif dan produktif
 
+**Buat siapa Tutormu?**
+Tutormu cocok untuk siapa saja yang mau belajar. Di Tutormu, kita belajar bareng, pelan-pelan, sambil menikmati prosesnya. 
+
+Yuk, belajar bareng Tutormu, karena *Tutormu...* teman belajarmu!
