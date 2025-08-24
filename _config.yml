@@ -1,13 +1,13 @@
 title: "Tutormu"
-email: 
+email: info@tutormu.com
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/credits.png'
-favicon: 'assets/images/favicon.png'
-author: Fauzan
+favicon: 'assets/images/icon.png'
+author: fauzan
 paginate: 30
-disqus: ''
+disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,21 +20,21 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: 
+ganalytics: UA-113961478-1
 
 # Authors
 authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/sal.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   fauzan:
     name: Fauzan
     display_name: Fauzan
-    avatar: 'assets/images/fauzan.png'
-    email: 
-    web: https://tutormu.com
-    twitter: 
-    description: "Penikmat kopi. Penyuka angka dan logika. Sedang membangun Tutormu.com sebagai tempat berbagi ilmu dan pengalaman belajar."
-  john:
-    name: John
-    display_name: John
     avatar: 'assets/images/john.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
@@ -43,9 +43,10 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/tutormucom/
-  youtube: https://www.youtube.com/@tutormu
-  tiktok: https://www.tiktok.com/@tutormu
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
+
 # Plugins
 plugins: 
 - jekyll-paginate
