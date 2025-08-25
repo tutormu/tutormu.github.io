@@ -15,7 +15,7 @@ Di sini kamu akan menemukan tutorial singkat, penjelasan praktis, dan panduan ya
 
 Topiknya beragam, mulai dari:
 - Ringkasan pelajaran yang gampang dipahami
-- Tutorial kreatif: menggambar, desain, musik, dll
+- Tutorial kreatif: desain, kerajinan tangan, dll
 - Panduan teknologi: dari dasar sampai yang bikin kamu jago
 - Tips belajar efektif dan produktif
 
