@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Selamat datang di Tutormu!"
+author: fauzan
 categories: [ info ]
 image: assets/images/1.jpg
 ---
