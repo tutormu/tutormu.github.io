@@ -5,4 +5,4 @@ Just customize your theme here.
 
 body {}
 
-@media only screen and (max-width: 767px) { .ml-3 text-muted small {display: none;}}
+@media only screen and (max-width: 767px) {.text-muted {display: none;}}
