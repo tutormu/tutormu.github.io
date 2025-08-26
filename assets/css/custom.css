@@ -6,6 +6,6 @@ Just customize your theme here.
 body {}
 
 @media only screen and (max-width: 767px) {
-  .text-muted {display: none;}
+  .text-muted, .intro {display: none;}
   .hero {padding: 1em; }
 }
