@@ -10,8 +10,8 @@ topmenu:
 - title: Kontak
   url: "contact/"
 
-- title: Mulai  
-  url: "#"
+- title: Materi  
+  url: "materi/"
   class: "ml-2 btn btn-dark text-white px-3"
 
 # Footer Menu
@@ -20,12 +20,11 @@ footermenu:
 - title: Beranda
   url: ""
 
-- title: Kebijakan Privasi
-  url: "privacy-policy/"
+- title: Tentang
+  url: "about/"
 
 - title: Kontak
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+- title: Kebijakan Privasi
+  url: "privacy-policy/"
