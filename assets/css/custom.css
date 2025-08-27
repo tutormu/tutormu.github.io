@@ -5,6 +5,8 @@ Just customize your theme here.
 
 body {}
 
+.hero {background: #eafff7;}
+
 @media only screen and (max-width: 767px) {
   .text-muted, .intro {display: none;}
   .hero {padding: 1.5rem; }
