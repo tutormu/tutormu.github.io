@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selamat datang di Tutormu!"
-author: fauzan
+author: fb
 categories: [ info ]
 image: assets/images/1.jpg
 ---
