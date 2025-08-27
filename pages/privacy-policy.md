@@ -1,37 +1,35 @@
 ---
 layout: page
-title: Privacy Policy
+title: Kebijakan Privasi
 permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+### Informasi yang Dikumpulkan dari Pengunjung  
+Sama seperti situs web lainnya, berkas log disimpan di server web yang menyimpan detail seperti alamat IP pengunjung, tipe browser, halaman asal rujukan, dan waktu kunjungan.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Cookie dapat digunakan untuk mengingat preferensi pengunjung saat berinteraksi dengan situs web.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Jika pendaftaran diperlukan, alamat email dan nama pengguna pengunjung akan disimpan di server.
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+### Cara Informasi Digunakan  
+Informasi tersebut digunakan untuk meningkatkan pengalaman pengunjung saat menggunakan situs web dengan menampilkan konten yang dipersonalisasi dan kemungkinan iklan yang relevan.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+Email dapat dikirim untuk memberitahu Anda tentang berita layanan kami atau penawaran dari kami maupun afiliasi kami.
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+### Pilihan Pengunjung  
+Jika Anda telah berlangganan salah satu layanan kami, Anda dapat berhenti berlangganan dengan mengikuti petunjuk yang terdapat dalam email yang Anda terima.
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+Anda mungkin dapat memblokir cookie melalui pengaturan browser Anda, namun ini dapat mencegah Anda mengakses fitur tertentu dari situs web.
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+### Cookie  
+Cookie adalah berkas tanda tangan digital kecil yang disimpan oleh browser Anda yang memungkinkan preferensi Anda tercatat saat mengunjungi situs web. Cookie juga dapat digunakan untuk melacak kunjungan ulang Anda ke situs web.
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+Perusahaan iklan pihak ketiga juga dapat menggunakan cookie untuk tujuan pelacakan.
 
-3rd party advertising companies may also use cookies for tracking purposes.
+### Google Ads  
+Google, sebagai vendor pihak ketiga, menggunakan cookie untuk menyajikan iklan.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+Penggunaan cookie DART oleh Google memungkinkan mereka menyajikan iklan kepada pengunjung berdasarkan situs yang dikunjungi di internet.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Pengunjung situs web dapat menolak penggunaan cookie DART dengan mengunjungi kebijakan privasi jaringan iklan dan konten Google.
