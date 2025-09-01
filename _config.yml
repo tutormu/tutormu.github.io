@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/credits.png'
-favicon: 'assets/images/favicon.png'
+favicon: 'assets/images/fav.png'
 author: fauzan
 paginate: 30
 disqus: 'demowebsite'
@@ -35,7 +35,7 @@ authors:
   fb:
     name: Tutormu
     display_name: Tutormu
-    avatar: 'assets/images/tround.png'
+    avatar: 'assets/images/avatartutormu.png'
     email: info@tutormu.com
     web: https://tutormu.com
     twitter: https://youtube.com/@tutormu
